@@ -1,6 +1,6 @@
 # WIN8 风格导航页 / WIN8 Style Navigation Page
 
-![screenshot](screenshot.png)
+![f1148d4aee92043fb7a0c.png](https://img.186404.xyz/file/f1148d4aee92043fb7a0c.png)
 
 ## 项目简介 / Project Overview
 
